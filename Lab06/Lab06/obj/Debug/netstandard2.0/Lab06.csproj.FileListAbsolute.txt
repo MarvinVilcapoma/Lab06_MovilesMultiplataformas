@@ -1,0 +1,15 @@
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.csprojAssemblyReference.cache
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\ListViewGroup.xaml.g.cs
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.AssemblyInfo.cs
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.dll
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.pdb
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.deps.json
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.dll
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.pdb
+C:\Users\marvi\source\repos\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\XamlC.stamp
